@@ -6,7 +6,7 @@ Tricks used in deep learning. Including papers read recently.
 
 Gumbel-Softmax: [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144)
 
-Confidence penalty: [Regularizing Neural Networks by Penalizing Confident Output Distributions)
+Confidence penalty: [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548)
 
 ## GAN
 
