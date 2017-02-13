@@ -18,5 +18,5 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 [GAN tricks](https://github.com/soumith/ganhacks)
 
-[Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875):
 [Example on MNIST](https://gist.github.com/f0k/f3190ebba6c53887d598d03119ca2066)
