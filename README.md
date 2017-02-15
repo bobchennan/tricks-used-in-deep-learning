@@ -14,9 +14,15 @@ weight normalization: [Weight Normalization: A Simple Reparameterization to Acce
 
 Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 
+## Weight compressing
+
+[Soft weight-sharing for Neural Network compression](https://arxiv.org/abs/1702.04008)
+
 ## GAN
 
 [GAN tricks](https://github.com/soumith/ganhacks)
 
 [Wasserstein GAN](https://arxiv.org/abs/1701.07875):
 [Example on MNIST](https://gist.github.com/f0k/f3190ebba6c53887d598d03119ca2066)
+
+[Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](https://arxiv.org/abs/1701.06264)
