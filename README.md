@@ -1,7 +1,6 @@
 # tricks-used-in-deep-learning
 Tricks used in deep learning. Including papers read recently.
 
-
 ## Improving softmax
 
 Gumbel-Softmax: [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144)
@@ -26,3 +25,8 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [Example on MNIST](https://gist.github.com/f0k/f3190ebba6c53887d598d03119ca2066)
 
 [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](https://arxiv.org/abs/1701.06264)
+
+
+## Matrix Factorization
+
+[MCPCA](https://arxiv.org/abs/1702.05471v1)
