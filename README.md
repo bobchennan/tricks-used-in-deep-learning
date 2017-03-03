@@ -30,3 +30,8 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 ## Matrix Factorization
 
 [MCPCA](https://arxiv.org/abs/1702.05471v1)
+
+
+## Feature representation
+[Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767)
+[code](https://github.com/pranv/ARC)
