@@ -36,5 +36,6 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767)
 [code](https://github.com/pranv/ARC)
 
-＃＃Training
+
+## Training
 [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343)
