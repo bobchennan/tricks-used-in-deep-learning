@@ -21,7 +21,7 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 [GAN tricks](https://github.com/soumith/ganhacks)
 
-[Wasserstein GAN](https://arxiv.org/abs/1701.07875):
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875):[my implementation](https://github.com/bobchennan/Wasserstein-GAN-Keras)
 [Example on MNIST](https://gist.github.com/f0k/f3190ebba6c53887d598d03119ca2066)
 
 [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](https://arxiv.org/abs/1701.06264)
@@ -35,3 +35,6 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 ## Feature representation
 [Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767)
 [code](https://github.com/pranv/ARC)
+
+＃＃Training
+[Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343)
