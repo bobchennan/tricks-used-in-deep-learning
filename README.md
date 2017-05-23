@@ -39,3 +39,9 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 ## Training
 [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343)
+
+## Dropout
+[Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369)
+[code](https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn)
+
+[Concrete Dropout](https://arxiv.org/abs/1705.07832)
