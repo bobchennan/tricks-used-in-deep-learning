@@ -45,3 +45,7 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [code](https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn)
 
 [Concrete Dropout](https://arxiv.org/abs/1705.07832)
+
+
+## Transfer Learning
+[Sobolev Training for Neural Networks](https://arxiv.org/abs/1706.04859)
