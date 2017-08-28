@@ -3,3 +3,5 @@
 Recurrent-like hierarchical VAE
 
 [Understanding Attentive Recurrent Comparators](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3)
+
+Attentive Recurrent Comparators are interesting: alternative attensions between two source.
