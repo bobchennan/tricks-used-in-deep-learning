@@ -49,3 +49,7 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 ## Transfer Learning
 [Sobolev Training for Neural Networks](https://arxiv.org/abs/1706.04859)
+
+
+## Face Recognition
+[ArcFace](https://arxiv.org/abs/1801.07698)
