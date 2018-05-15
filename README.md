@@ -53,3 +53,7 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 ## Face Recognition
 [ArcFace](https://arxiv.org/abs/1801.07698)
+
+
+## Adaptation
+[Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
