@@ -57,3 +57,9 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 
 ## Adaptation
 [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
+
+
+## Data Augmentation
+[mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
+
+[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
