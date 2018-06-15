@@ -63,3 +63,5 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
 
 [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
+
+[Manifold Mixup: Encouraging Meaningful On-Manifold Interpolation as a Regularizer](https://arxiv.org/abs/1806.05236)
