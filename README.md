@@ -65,3 +65,8 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
 
 [Manifold Mixup: Encouraging Meaningful On-Manifold Interpolation as a Regularizer](https://arxiv.org/abs/1806.05236)
+
+## ODE
+[Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations](https://arxiv.org/abs/1710.10121)
+
+[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
