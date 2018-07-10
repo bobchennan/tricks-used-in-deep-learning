@@ -70,3 +70,9 @@ Batch Renormalization: [Batch Renormalization: Towards Reducing Minibatch Depend
 [Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations](https://arxiv.org/abs/1710.10121)
 
 [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+
+## Temporal/Spatial information
+
+[An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://arxiv.org/abs/1807.03247)
+
+All you need is attention
